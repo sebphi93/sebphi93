@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **sebphi93/sebphi93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm Sebastian 👋
+
+I'm an IT engineer and consultant with a passion for Free and Open Source Software (FOSS).  
+Currently focused on Cloud and Linux administration, I'm embracing the FOSS philosophy and starting my journey to contribute back to the community.
+
+- 💻 IT engineer & consultant  
+- ☁️ M365, Cloud & Linux / Windows administration specialist  
+- 🛠️ FOSS enthusiast & advocate  
+- 🚀 On a journey to give back through open source contributions
+
+Let's connect and collaborate on exciting projects!
+
+---
