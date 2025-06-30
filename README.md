@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Sebastian 👋
 
-I'm an IT engineer and consultant with a passion for Free and Open Source Software (FOSS).  
+I'm an IT engineer and consultant with a passion for Free and Open Source Software (FOSS).
+
 Currently focused on Cloud and Linux administration, I'm embracing the FOSS philosophy and starting my journey to contribute back to the community.
 
 - 💻 IT engineer & consultant  
