@@ -19,11 +19,13 @@ I'm an IT engineer and consultant with a passion for Free and Open Source Softwa
 
 Currently focused on Collaboration, Cloud and Linux administration, I'm embracing the FOSS philosophy and starting my journey to contribute back to the community.
 
-- 💻 IT engineer & consultant  
-- ☁️ M365, Cloud & Linux / Windows administration specialist  
-- 🛠️ FOSS enthusiast & advocate  
+- 💻 IT engineer & consultant
+- ☁️ M365, Cloud & Linux / Windows administration specialist
+- 🛠️ FOSS enthusiast & advocate
 - 🚀 On a journey to give back through open source contributions
 
-Let's connect and collaborate on exciting projects!
+---
+
+If I'm not working on something tech-related you will find me outdoors exploring nature or working out ⛰️👟
 
 ---
