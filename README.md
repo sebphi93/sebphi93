@@ -29,3 +29,5 @@ Currently focused on Collaboration, Cloud and Linux administration in my profess
 If I'm not working on something tech-related you will find me outdoors exploring nature or working out ⛰️👟
 
 ---
+
+Happy user and supporter of [Project Bluefin](https://projectbluefin.io/) 💙+🐧
