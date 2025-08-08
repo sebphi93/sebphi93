@@ -30,4 +30,4 @@ If I'm not working on something tech-related you will find me outdoors exploring
 
 ---
 
-Happy user and supporter of [Project Bluefin](https://projectbluefin.io/) 🐧 + 💙 
+Happy user and supporter of [Aurora](https://getaurora.dev/en) 🐧 + 🌠 
